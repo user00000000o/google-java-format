@@ -1,4 +1,4 @@
-name: Release google-java-format
+name: Release java-format
 
 on:
   workflow_dispatch:
