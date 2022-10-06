@@ -362,5 +362,11 @@
         </plugins>
       </build>
     </profile>
+    <profile>
+      <id>eclipse</id>
+      <modules>
+        <module>eclipse_plugin</module>
+      </modules>
+    </profile>
   </profiles>
 </project>
